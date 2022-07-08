@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fanctions", "Fanctions\Fanctions.vcxproj", "{BCA2F408-DF8F-413F-9DC0-31F9FA6110BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCA2F408-DF8F-413F-9DC0-31F9FA6110BE}.Debug|x64.ActiveCfg = Debug|x64
+		{BCA2F408-DF8F-413F-9DC0-31F9FA6110BE}.Debug|x64.Build.0 = Debug|x64
+		{BCA2F408-DF8F-413F-9DC0-31F9FA6110BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{BCA2F408-DF8F-413F-9DC0-31F9FA6110BE}.Debug|x86.Build.0 = Debug|Win32
+		{BCA2F408-DF8F-413F-9DC0-31F9FA6110BE}.Release|x64.ActiveCfg = Release|x64
+		{BCA2F408-DF8F-413F-9DC0-31F9FA6110BE}.Release|x64.Build.0 = Release|x64
+		{BCA2F408-DF8F-413F-9DC0-31F9FA6110BE}.Release|x86.ActiveCfg = Release|Win32
+		{BCA2F408-DF8F-413F-9DC0-31F9FA6110BE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5DA5453-D186-4867-91AF-651D01718A5C}
+	EndGlobalSection
+EndGlobal
